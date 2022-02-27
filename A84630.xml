@@ -1,0 +1,393 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent from the right honorable the Lord Fairfax, to the committee of both kingdoms: concerning the great victory, lately obtained (by Gods blessing) at Selby in York-shire. Wherein is more exactly set forth the manner of performing that gallant service, then hath been published in former relations. Together with a list of the commanders that were there taken prisoners. Ordered by the Commons in Parliament, that this letter, with the list, and the order for Thanksgiving on Tuesday next, be printed and published: H: Elsynge, Cler. Parl.D. Com.</title>
+            <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84630</idno>
+            <idno type="STC">Wing F121</idno>
+            <idno type="STC">Thomason E43_14</idno>
+            <idno type="STC">ESTC R9225</idno>
+            <idno type="EEBO-CITATION">99873502</idno>
+            <idno type="PROQUEST">99873502</idno>
+            <idno type="VID">154458</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154458)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 8:E43[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent from the right honorable the Lord Fairfax, to the committee of both kingdoms: concerning the great victory, lately obtained (by Gods blessing) at Selby in York-shire. Wherein is more exactly set forth the manner of performing that gallant service, then hath been published in former relations. Together with a list of the commanders that were there taken prisoners. Ordered by the Commons in Parliament, that this letter, with the list, and the order for Thanksgiving on Tuesday next, be printed and published: H: Elsynge, Cler. Parl.D. Com.</title>
+                  <author>Fairfax, Ferdinando Fairfax, Baron, 1584-1648.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>April 19. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Selby (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154458:1" rendition="simple:additions"/>
+            <p>A LETTER Sent from the RIGHT HONORABLE, The Lord Fairfax, To the Committee of both Kingdoms: CONCERNING The great Victory, lately obtained <hi>(By Gods Bleſsing)</hi> At SELBY in YORK-SHIRE.</p>
+            <p>Wherein is more exactly ſet forth the manner of performing that gallant ſervice, then hath been publiſhed in former Relations.</p>
+            <p>Together with a LIST of the Comman<g ref="char:EOLhyphen"/>ders that were there taken priſoners.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Ordered by the Commons in Parliament, That this Letter, with the Liſt, and the Order for Thankſgiving on Tueſday next, be printed and publiſhed:</p>
+                  <closer>
+                     <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed for <hi>Edw. Husbands,</hi> April 19. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154458:2"/>
+            <pb n="3" facs="tcp:154458:2"/>
+            <opener>
+               <salute>My LORDS:</salute>
+            </opener>
+            <p>ACcording to the Orders ſent to mee and my ſon from your Lordſhips, wee have now ioyned our Forces together; and though the Enemy held all the paſſes from the Eaſt<g ref="char:EOLhyphen"/>riding to the Weſt, and by that means inter<g ref="char:EOLhyphen"/>cepted divers of our Letters, and thereby be<g ref="char:EOLhyphen"/>came acquainted with our appointments, and ſo indeavoured to prevent them; which forced mee to decline <hi>Selby,</hi> and make a paſſage over the River, ten miles below it in Marſhland, where my Men and Carriages being paſſed with ſome difficulty, on Sonday and Mon<g ref="char:EOLhyphen"/>day laſt, I inſtantly marched with the whole Army conſiſting of Two thouſand Horſe and Dragoons, and Two thouſand Foot or there<g ref="char:EOLhyphen"/>abouts, to Ferry-bridge, and ſo to <hi>Selby,</hi> where Colonell <hi>Iohn Belaſyſe</hi> (commanding in chief in <hi>Yorkſhire</hi>) then lay with an Army of Fifteen hundred Horſe, and Eighteen hundred Foot, as themſelves confeſſe, though Reports made it much more numerous.</p>
+            <pb n="4" facs="tcp:154458:3"/>
+            <p>Upon Wedneſday, our Forlorn-Hope of Horſe beat in a partee of the Enemies Horſe, and followed them into the Town, taking di<g ref="char:EOLhyphen"/>vers of them priſoners, and the day being far ſpent, I quartered the Army within a mile of <hi>Selby</hi> that night, and drew them out again ear<g ref="char:EOLhyphen"/>ly the next morning, and then with the Foot in three diviſions, one led up by my ſelf, a ſecond by Sir <hi>Iohn Meldrum,</hi> and a third by Lieutenant Colonell <hi>Needham,</hi> fell upon the Town, to ſtorm it in three places altogether, where the Enemy received us with much cou<g ref="char:EOLhyphen"/>rage, and made ſtrong reſiſtance for two hours or thereabouts; but in concluſion, my own Foot Regiment forced a paſſage by the River ſide, and my ſon with his Regiment of Horſe ruſhed into the Town, where hee was incoun<g ref="char:EOLhyphen"/>tred by Colonell <hi>Belaſyſe,</hi> and the Enemies Horſe; but they being beaten back, and Maſter <hi>Belaſyſe</hi> himſelf wounded, and taken priſoner, and our Foot entred on all ſides the Town, the Enemy was wholly routed, and as many as could ſaved themſelves by flight, ſome to<g ref="char:EOLhyphen"/>wards <hi>Cawood,</hi> ſome towards <hi>Pontefract,</hi> and the reſt towards <hi>York,</hi> over the River by a Bridge of Boats laid by themſelves; We pur<g ref="char:EOLhyphen"/>ſued
+<pb n="5" facs="tcp:154458:3"/>them every way, and took in the Town and chaſe, the Priſoners, Ordnance, Arms, Ammunitions, and Colours mentioned in the Liſt incloſed.</p>
+            <p>Of my own Men, I loſt in the fight divers gallant Commanders and Souldiers, and very many ſore wounded; And indeed, all my Ar<g ref="char:EOLhyphen"/>my, both Commanders and common Souldi<g ref="char:EOLhyphen"/>ers, behaved themſelves with as much courage as ever I obſerved in Men.</p>
+            <p>All which wee muſt acknowledge to God alone, who both infuſeth courage, and gives Victory where hee pleaſeth: I ſhall now, I hope, be able to raiſe more Forces in the coun<g ref="char:EOLhyphen"/>try, and improve this Victory that God hath beſtowed on us, to the beſt advantage. This being all for the preſent, untill further occa<g ref="char:EOLhyphen"/>ſion, I reſt</p>
+            <closer>
+               <signed>
+                  <hi>Your Lordſhips</hi> Moſt affectionate and humble Servant, <hi>Fer: Fairfax.</hi>
+               </signed>
+               <dateline>
+                  <hi>Selby,</hi> 
+                  <date>12 <hi>April,</hi> 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list_of_prisoners">
+            <pb n="6" facs="tcp:154458:4"/>
+            <head>A Liſt of the Officers taken Priſoners, the 11. of April, 1644.</head>
+            <list>
+               <item>Colonell <hi>John Belaſyſe.</hi>
+               </item>
+               <item>Colonell Sir <hi>John Ramſden.</hi>
+               </item>
+               <item>Sir <hi>Thomas Str<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ckland.</hi>
+               </item>
+               <item>Lieut. Colonell <hi>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndall.</hi>
+               </item>
+               <item>Lieut. Colonell <hi>Forbes.</hi>
+               </item>
+               <item>Major <hi>Heskit.</hi>
+               </item>
+            </list>
+            <list>
+               <label>Commanders of Horſe.</label>
+               <item>
+                  <list>
+                     <item>Major <hi>Wentworth.</hi>
+                     </item>
+                     <item>Major <hi>Sadlington.</hi>
+                     </item>
+                     <item>Major <hi>Rogers.</hi>
+                     </item>
+                     <item>Captain <hi>Horsfeild.</hi>
+                     </item>
+                     <item>Captain <hi>Beverſham.</hi>
+                     </item>
+                     <item>Captain <hi>Waſhington.</hi>
+                     </item>
+                     <item>Captain <hi>Grimſton.</hi>
+                     </item>
+                     <item>Captain <hi>Cholmley.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>Captains of Foot.</label>
+               <item>
+                  <list>
+                     <item>Captain <hi>Scudamore.</hi>
+                     </item>
+                     <item>Captain <hi>Williamſon.</hi>
+                     </item>
+                     <item>Captain <hi>Morrit.</hi>
+                     </item>
+                     <item>Captain <hi>Turner.</hi>
+                     </item>
+                     <item>Captain <hi>Skeld<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n.</hi>
+                     </item>
+                     <item>Captain <hi>Brigs.</hi>
+                     </item>
+                     <item>Captain <hi>Waterhouſe.</hi>
+                     </item>
+                     <item>Captain <hi>Kirke.</hi>
+                     </item>
+                     <item>Captain <hi>Hardcaſtle.</hi>
+                     </item>
+                     <item>Captain <hi>Liſter.</hi>
+                     </item>
+                     <item>Captain <hi>Nevill.</hi>
+                     </item>
+                     <item>Captain <hi>Conyers.</hi>
+                     </item>
+                     <item>Captain Lieut. <hi>Salvin.</hi>
+                     </item>
+                     <item>Captain Lieut. <hi>Conyers.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>Lieutenants of Horſe.</label>
+               <item>
+                  <list>
+                     <item>Lieutenant <hi>Rickaby.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Biſhop.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Keighley.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Gra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <label>Lieutenants of Foot.</label>
+               <item>
+                  <list>
+                     <item>Lieutenant <hi>Wright.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Grin.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Ridmayne.</hi>
+                     </item>
+                     <item>Lieutenant <hi>V<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ncent.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Pearſon.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Fit<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ames.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Moore.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Waynman.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Ev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi>
+                     </item>
+                     <item>Lieutenant <hi>No<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ton.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Duffe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ld.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Turner.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Croc.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Fowler.</hi>
+                     </item>
+                     <pb n="7" facs="tcp:154458:4"/>
+                     <item>Lieutenant <hi>Geeres.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Carter.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Jackſon.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Sk<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>pwith.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Duckit.</hi>
+                     </item>
+                     <item>Lieutenant <hi>Harper.</hi>
+                     </item>
+                     <item>Cornet <hi>Dickers.</hi>
+                     </item>
+                     <item>Cornet <hi>Spuryer.</hi>
+                     </item>
+                     <item>Cornet <hi>Smith.</hi>
+                     </item>
+                     <item>Cornet <hi>Brabiner.</hi>
+                     </item>
+                     <item>Cornet <hi>Hutton.</hi>
+                     </item>
+                     <item>Cornet <hi>Thompſon.</hi>
+                     </item>
+                     <item>Enſigne <hi>Hewith.</hi>
+                     </item>
+                     <item>Enſigne <hi>Cowling</hi>
+                     </item>
+                     <item>Enſigne <hi>Middleton.</hi>
+                     </item>
+                     <item>Enſigne <hi>Leyton.</hi>
+                     </item>
+                     <item>Enſigne <hi>Ram<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Enſigne <hi>Todd.</hi>
+                     </item>
+                     <item>Enſigne <hi>Jack<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>
+                        </hi>
+                     </item>
+                     <item>Enſigne <hi>Conyers.</hi>
+                     </item>
+                     <item>Enſigne <hi>North.</hi>
+                     </item>
+                     <item>Enſigne <hi>Leighton.</hi>
+                     </item>
+                     <item>Enſigne <hi>Hapletine.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Wadmouth.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Jackſon.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Dunkin.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Hall.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Thomlinſon.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Spencer.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Walton.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Burton.</hi>
+                     </item>
+                     <item>Quartermaſter <hi>Slater.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>
+               <hi>Elias Walker,</hi> Maſter of the Magazine. <hi>Richard Ludlow</hi> Provoſt Marſhall; And divers Sergeants, Trumpets, Cor<g ref="char:EOLhyphen"/>poralls, Drums, and other Officers.</p>
+            <p>Divers ſlain, and lyes ſtrewed in the way to <hi>York</hi> for four miles together; others that fled to <hi>Pontefract,</hi> were purſued as far as Ferry-Bridge.</p>
+            <p>Four Braſſe pieces of Ordnance.</p>
+            <p>Seven Barrels of Powder. Sixteen Bundles of Match.</p>
+            <p>Two thouſand Arms or above.</p>
+            <p>Many Horſe and Foot Colours taken, but as yet ſixteen or ſeventeen come in. And Sixteen hundred common Sol<g ref="char:EOLhyphen"/>diers. Above Five hundred Horſe. The Pinnace taken at <hi>Gainsbrough;</hi> All their Bag and Baggage, and many Ships and Boats upon the River.</p>
+         </div>
+         <div type="order">
+            <pb n="8" facs="tcp:154458:5"/>
+            <head>
+               <date>Die Mercurii, <hi>17</hi> April, <hi>1644.</hi>
+               </date>
+            </head>
+            <p>IT is this day Ordered by the Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament, That the Miniſters in the ſeverall Churches and Chappels within the Line of <hi>Com<g ref="char:EOLhyphen"/>munication,</hi> and Pariſhes vvithin the Bills of Mortallity, do give notice to their Pariſhioners, of the great Succeſs it hath pleaſed God to give the Parlia<g ref="char:EOLhyphen"/>ments Forces in Yorkſhire and Pem<g ref="char:EOLhyphen"/>brokeſhire; And to acquaint them that the Houſes have appointed, and ſet a part Tueſday next, for a Publique-Thankſgiving, to be given to Almigh<g ref="char:EOLhyphen"/>ty GOD for his great Bleſsings and Succeſſes.</p>
+            <closer>
+               <signed>H: Elſynge, Cler. Parl D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
